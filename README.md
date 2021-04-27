@@ -225,19 +225,11 @@ Per risolvere eventuali incongruenze generatesi ai bordi di comuni adiacenti, tu
 
 **Size (Mb):** 326
 
-**Codice Ripartizione NUTS-1:** 5
-
-**Nome Ripartizione NUTS-1:** Isole
-
 **Numero delle features:** 505518
 
 **SICILIA**
 
 **Size (Mb):** 506
-
-**Codice Ripartizione NUTS-1:** 5
-
-**Nome Ripartizione NUTS-1:** Isole
 
 **Numero delle features:** 1564033
 
