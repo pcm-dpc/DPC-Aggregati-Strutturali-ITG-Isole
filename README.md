@@ -99,7 +99,7 @@ La serie di dataset degli Aggregati Strutturali rappresenta il risultato di una 
 
 **Scala:** 10000/2000
 
-**SICILIA
+**SICILIA**
 
 **Disponibili nel Web:** La Regione Sicilia ha trasmesso la cartografia a seguito di una richiesta del Dipartimento.
 
@@ -107,50 +107,25 @@ La serie di dataset degli Aggregati Strutturali rappresenta il risultato di una 
 
 **Edizione:** 2012/2013+agg.
 
-**Scala:**10000
-
+**Scala:** 10000
 
 ## Licenza dei dati originali
 
-**EMILIA-ROMAGNA**
+**SARDEGNA**
 
 **Licenza dataset originale:** CC BY 4.0
 
 **Autorizzazione specifica:** NO
 
-**Attribuzione richiesta:** Regione Emilia-Romagna
+**Attribuzione richiesta:** Regione Sardegna
 
-**FRIULI VENEZIA GIULIA**
+**SICILIA**
 
-**Licenza dataset originale:** IODL 2.0
+**Licenza dataset originale:** Non presente
 
-**Autorizzazione specifica:** NO
+**Autorizzazione specifica:** Nota del 3 febbraio 2021 Regione Sicilia Dipartimento Regionale Protezione Civile – Servizio Sismico e Vulcanico – S.03 di concerto con Assessorato del Territorio e dell’Ambiente – Dipartimento di Urbanistica.
 
-**Attribuzione richiesta:** Regione Friuli Venezia Giulia
-
-**P.A. BOLZANO**
-
-**Licenza dataset originale:** CC 0 1.0
-
-**Autorizzazione specifica:** NO
-
-**Attribuzione richiesta:** Provincia Autonoma di Bolzano
-
-**P.A. TRENTO**
-
-**Licenza dataset originale:** CC BY 3.0 IT
-
-**Autorizzazione specifica:** NO
-
-**Attribuzione richiesta:** Provincia Autonoma di Trento
-
-**VENETO**
-
-**Licenza dataset originale:** IODL 2.0
-
-**Autorizzazione specifica:** NO
-
-**Attribuzione richiesta:** Regione Veneto
+**Attribuzione richiesta:** Regione Sicilia
 
 ## Sistemi di riferimento dei dati originali
 
