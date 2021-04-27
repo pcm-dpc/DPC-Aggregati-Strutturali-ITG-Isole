@@ -50,7 +50,8 @@ A ciascun gruppo è associato un proprio identificativo composto da una sequenza
 <img src="https://github.com/pcm-dpc/DPC-Aggregati-Strutturali-ITI-Centro/blob/master/RipartizioniISTAT.PNG" />
 
 ```
-DPC-Aggregati-Strutturali-ITG-Isole/│
+DPC-Aggregati-Strutturali-ITG-Isole/
+│
 ├── Isole/
 │   ├── Sardegna/
 │   │   ├── Cagliari/
