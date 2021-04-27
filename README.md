@@ -50,59 +50,37 @@ A ciascun gruppo è associato un proprio identificativo composto da una sequenza
 <img src="https://github.com/pcm-dpc/DPC-Aggregati-Strutturali-ITI-Centro/blob/master/RipartizioniISTAT.PNG" />
 
 ```
-DPC-Aggregati-Strutturali-ITH-NordEst/
-|
-├── NordEst/
-│   ├── EmiliaRomagna/
-│   │   ├── Bologna/
+DPC-Aggregati-Strutturali-ITG-Isole/│
+├── Isole/
+│   ├── Sardegna/
+│   │   ├── Cagliari/
 │   │   │   ├── shapefile comuni
-│   │   ├── Ferrara/
+│   │   ├── Nuoro/
 │   │   │   ├── shapefile comuni
-│   │   ├── ForliCesena/
+│   │   ├── Oristano/
 │   │   │   ├── shapefile comuni
-│   │   ├── Modena/
+│   │   ├── Sassari/
 │   │   │   ├── shapefile comuni
-│   │   ├── Parma/
+│   │   ├── SudSardegna/
 │   │   │   ├── shapefile comuni
-│   │   ├── Piacenza/
+│   ├── Sicilia/
+│   │   ├── Agrigento/
 │   │   │   ├── shapefile comuni
-│   │   ├── Ravenna/
+│   │   ├── Caltanissetta/
 │   │   │   ├── shapefile comuni
-│   │   ├── ReggioEmilia/
+│   │   ├── Catania/
 │   │   │   ├── shapefile comuni
-│   │   ├── Rimini/
+│   │   ├── Enna/
 │   │   │   ├── shapefile comuni
-│   ├── FriuliVeneziaGiulia/
-│   │   ├── Gorizia/
+│   │   ├── Messina/
 │   │   │   ├── shapefile comuni
-│   │   ├── Pordenone/
+│   │   ├── Palermo/
 │   │   │   ├── shapefile comuni
-│   │   ├── Udine/
+│   │   ├── Ragusa/
 │   │   │   ├── shapefile comuni
-│   │   ├── Trieste/
+│   │   ├── Siracusa/
 │   │   │   ├── shapefile comuni
-│   ├── ProvinciaAutonomaBolzano/
-│   │   ├── Bolzano/
-│   │   │   ├── shapefile comuni
-│   ├── ProvinciaAutonomaTrento/
-│   │   ├── Trento/
-│   │   │   ├── shapefile comuni
-│   ├── Veneto/
-│   │   ├── Belluno/
-│   │   │   ├── shapefile comuni
-│   │   ├── Padova/
-│   │   │   ├── shapefile comuni
-│   │   ├── Rovigo/
-│   │   │   ├── shapefile comuni
-│   │   ├── Treviso/
-│   │   │   ├── shapefile comuni
-│   │   ├── Torino/
-│   │   │   ├── shapefile comuni
-│   │   ├── Venezia/
-│   │   │   ├── shapefile comuni
-│   │   ├── Verona/
-│   │   │   ├── shapefile comuni
-│   │   ├── Vicenza/
+│   │   ├── Trapani/
 │   │   │   ├── shapefile comuni
 ```
 
