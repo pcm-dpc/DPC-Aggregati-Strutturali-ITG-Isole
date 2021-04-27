@@ -89,55 +89,26 @@ La serie di dataset degli Aggregati Strutturali rappresenta il risultato di una 
 
 ## Fonti dei dati originali
 
-**EMILIA-ROMAGNA**
+**SARDEGNA**
 
-**Disponibili nel Web:** Trasmessi dalla Regione Emilia Romagna a seguito di richiesta del DPC.
+**Disponibili nel Web:** http:**//www.sardegnageoportale.it/areetematiche/databasegeotopografico/ 
 
-**Tipo**: https://geoportale.regione.emilia-romagna.it/notizie/servizi-e-applicazioni/edificato2018-ottenuto-con-tecniche-di-feature-extraction-tramite-machine-learning
+**Tipo:** DBT(DM2011)
 
-**Edizione:** 2018
+**Edizione:** 2013/2020
 
-**Scala:** 5000
+**Scala:** 10000/2000
 
-**FRIULI VENEZIA GIULIA**
+**SICILIA
 
-**Disponibili nel Web:** https://irdat.regione.fvg.it/CTRN/ricerca-cartografia/ 
+**Disponibili nel Web:** La Regione Sicilia ha trasmesso la cartografia a seguito di una richiesta del Dipartimento.
 
-**Tipo:** CTRN
+**Tipo:** CTR
 
-**Edizione:** 1990/2000 I ed. e 2003/2006 II ed.
+**Edizione:** 2012/2013+agg.
 
-**Scala:** 5000
+**Scala:**10000
 
-**P.A. BOLZANO**
-
-**Disponibili nel Web:** Disponibile per la CTR 1:5000 solo il servizio WMS o il download del raster, facendo richiesta è stato inviato anche il layer vettoriale.
-
-**Tipo:** DBT(Intesa GIS 2006)
-
-**Edizione:** 2007
-
-**Scala:** 5000
-
-**P.A. TRENTO**
-
-**Disponibili nel Web:** http://www.territorio.provincia.tn.it/portal/server.pt/community/carta_tecnica_provinciale/920/carta_tecnica_provinciale/40052 
-
-**Tipo:** CTPN
-
-**Edizione:** 2017
-
-**Scala:** 10000
-
-**VENETO**
-
-**Disponibili nel Web:** La Regione Veneto ha trasmesso i propri dati sull’edificato a seguito di una specifica richiesta, in esito di una revisione generale effettuata nel 2020 di quelli pubblicati e resi disponibili che spaziano temporalmente dal 2005 al 2018.
-
-**Tipo:** CTRN/DBT
-
-**Edizione:** 2020
-
-**Scala:** 5000/10000
 
 ## Licenza dei dati originali
 
