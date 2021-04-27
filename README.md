@@ -221,55 +221,25 @@ Per risolvere eventuali incongruenze generatesi ai bordi di comuni adiacenti, tu
 
 ## Occupazione di memoria Regionale
 
-**EMILIA-ROMAGNA**
+**SARDEGNA**
 
-**Size (Mb):** 521
+**Size (Mb):** 326
 
-**Codice Ripartizione NUTS-1:** 2
+**Codice Ripartizione NUTS-1:** 5
 
-**Nome Ripartizione NUTS-1:** Nord-Est
+**Nome Ripartizione NUTS-1:** Isole
 
-**Numero delle features:** 1546084
+**Numero delle features:** 505518
 
-**FRIULI VENEZIA GIULIA**
+**SICILIA**
 
-**Size (Mb):** 252
+**Size (Mb):** 506
 
-**Codice Ripartizione NUTS-1:** 2
+**Codice Ripartizione NUTS-1:** 5
 
-**Nome Ripartizione NUTS-1:** Nord-Est
+**Nome Ripartizione NUTS-1:** Isole
 
-**Numero delle features:** 476722
-
-**P.A. BOLZANO**
-
-**Size (Mb):** 53
-
-**Codice Ripartizione NUTS-1:** 2
-
-**Nome Ripartizione NUTS-1:** Nord-Est
-
-**Numero delle features:** 153077
-
-**P.A. TRENTO**
-
-**Size (Mb):** 334
-
-**Codice Ripartizione NUTS-1:** 2
-
-**Nome Ripartizione NUTS-1:** Nord-Est
-
-**Numero delle features:** 142736
-
-**VENETO**
-
-**Size (Mb):** 806
-
-**Codice Ripartizione NUTS-1:** 2
-
-**Nome Ripartizione NUTS-1:** Nord-Est
-
-**Numero delle features:** 1290004
+**Numero delle features:** 1564033
 
 ## Aggiornamento dei dati
 Non pianificato
