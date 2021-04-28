@@ -224,13 +224,13 @@ Per risolvere eventuali incongruenze generatesi ai bordi di comuni adiacenti, tu
 
 **SARDEGNA**
 
-**Size (Mb):** 326
+**Size (Mb):** 294
 
 **Numero delle features:** 505518
 
 **SICILIA**
 
-**Size (Mb):** 506
+**Size (Mb):** 407
 
 **Numero delle features:** 1564033
 
