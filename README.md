@@ -140,7 +140,7 @@ La serie di dataset degli Aggregati Strutturali rappresenta il risultato di una 
 
 **Sistema Riferimento:** RDN2008_UTM_zone_33N
 
-**EPSG:** 6708
+**EPSG:** 7792
 
 ## DESCRIZIONE DEGLI AGGREGATI STRUTTURALI
 In questa sezione viene descritta in maggior dettaglio la serie dei dataset degli Aggregati Strutturali che rappresentano il risultato dell'elaborazione dei dati originali precedentemente descritti.
