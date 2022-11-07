@@ -92,11 +92,11 @@ La serie di dataset degli Aggregati Strutturali rappresenta il risultato di una 
 
 **SARDEGNA**
 
-**Disponibili nel Web:** http:**//www.sardegnageoportale.it/areetematiche/databasegeotopografico/ 
+**Disponibili nel Web:** [http:**//www.sardegnageoportale.it/areetematiche/databasegeotopografico/](https://www.sardegnageoportale.it/index.php?xsl=2420&s=40&v=9&c=95645&na=1&n=10&esp=1&tb=14401) 
 
 **Tipo:** DBT(DM2011)
 
-**Edizione:** 2013/2020
+**Edizione:** 2022
 
 **Scala:** 10000/2000
 
