@@ -132,9 +132,9 @@ La serie di dataset degli Aggregati Strutturali rappresenta il risultato di una 
 
 **SARDEGNA**
 
-**Sistema Riferimento:** WGS_1984_UTM_Zone_32N
+**Sistema Riferimento:** RDN2008 / UTM zone 32N
 
-**EPSG:** 32632
+**EPSG:** 7791
 
 **SICILIA**
 
@@ -224,9 +224,9 @@ Per risolvere eventuali incongruenze generatesi ai bordi di comuni adiacenti, tu
 
 **SARDEGNA**
 
-**Size (Mb):** 294
+**Size (Mb):** 173
 
-**Numero delle features:** 505518
+**Numero delle features:** 581375
 
 **SICILIA**
 
